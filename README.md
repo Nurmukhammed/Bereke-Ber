@@ -1,2 +1,2 @@
-#My Personal Website
-This is my personal website designed by me.
+#Bereke - Ber (Personal website)
+This is my personal website 'Bereke - Ber' designed by me.
